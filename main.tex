@@ -1,0 +1,40 @@
+\documentclass[14pt]{extarticle}
+\usepackage[T1]{fontenc}
+\usepackage[a4paper, total={6in, 8in}]{geometry}
+ \geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=29mm,
+ top=40mm,
+ right=29mm,
+ bottom=35mm,
+ }
+\usepackage{lmodern}
+
+\usepackage{hyperref}
+\usepackage{cleveref}
+\renewcommand{\familydefault}{\sfdefault}
+
+\usepackage{graphicx} % Required for inserting images
+\usepackage{multirow}
+
+\usepackage{siunitx}
+\usepackage[american, european resistors, cute inductor, siunitx, nooldvoltagedirection]{circuitikz}
+
+\usetikzlibrary{angles,
+                quotes}
+
+\usepackage{tkz-euclide}
+
+\title{Aantekeningen eps20}
+\author{Jasmine Hottentot}
+\date{December 2025}
+
+\begin{document}
+\maketitle
+\newpage
+\tableofcontents
+\newpage
+\section{Vermogen en blind vermogen}
+\input{vermogen berekenen.tex}
+\end{document}
