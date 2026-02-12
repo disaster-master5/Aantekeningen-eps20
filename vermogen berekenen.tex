@@ -21,8 +21,8 @@ Om de gegevens van schakelingen te berekenen wordt gebruik gemaakt van de vermog
 \draw (O)--(A)--(B)--cycle;
 
 \tkzLabelSegment[below=2pt](O,A){\textit{P}}
-\tkzLabelSegment[left=2pt](O,B){\textit{Q}}
-\tkzLabelSegment[above right=2pt](A,B){\textit{S}}
+\tkzLabelSegment[left=2pt](O,B){\textit{S}}
+\tkzLabelSegment[above right=2pt](A,B){\textit{Q}}
 
 \tkzMarkAngle[fill= teal,size=0.8cm,%
 opacity=.4](A,O,B)
@@ -105,3 +105,30 @@ $C=\frac{U_C^2}{\omega Q_C}$
 tot slot geld: 
 
 $\theta = \theta _V - \theta _I$
+
+\subsection{Impendantie driehoek}
+Voor de impendantie is ook een driehoek te maken. Dit is de driekoek voor een spoel.
+
+\begin{center}
+
+\begin{tikzpicture}[thick]
+\coordinate (O) at (0,0);
+\coordinate (A) at (4,0);
+\coordinate (B) at (4,4);
+\draw (O)--(A)--(B)--cycle;
+
+\tkzLabelSegment[below=2pt](O,A){\textit{R}}
+\tkzLabelSegment[left=2pt](O,B){\textit{Z}}
+\tkzLabelSegment[above right=2pt](A,B){\textit{$X_L$}}
+
+\tkzMarkAngle[fill= teal,size=0.8cm,%
+opacity=.4](A,O,B)
+\tkzLabelAngle[pos = 0.6](A,O,B){$\varphi $}
+
+\end{tikzpicture}
+\end{center}
+
+Hier geldt:\\
+R= weerstand\\
+Z= impendantie\\
+$X_L$= inductieve reactantie\\
