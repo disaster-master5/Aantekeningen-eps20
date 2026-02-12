@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.20)  12 FEB 2026 11:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.20)  12 FEB 2026 15:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -802,12 +802,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--38
 
  []
 
-[3{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}] [4])
-Underfull \hbox (badness 10000) in paragraph at lines 131--40
+[3{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 131--135
 
  []
 
-[5] (./main.aux)
+) [5] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2020/03/25>
@@ -816,15 +816,15 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 0F73D284227C131FA82DD32C6E403C89;484.
  ) 
 Here is how much of TeX's memory you used:
- 49205 strings out of 467532
- 1229099 string characters out of 5423649
- 1834999 words of memory out of 5000000
- 77474 multiletter control sequences out of 15000+600000
+ 49226 strings out of 467532
+ 1229544 string characters out of 5423649
+ 1835999 words of memory out of 5000000
+ 77495 multiletter control sequences out of 15000+600000
  669707 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,6n,133p,1186b,1145s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi7.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmss12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmss17.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsso12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on main.pdf (5 pages, 165296 bytes).
+Output written on main.pdf (5 pages, 165724 bytes).
 PDF statistics:
  114 PDF objects out of 1000 (max. 8388607)
  83 compressed objects within 1 object stream
