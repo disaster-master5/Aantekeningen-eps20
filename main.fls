@@ -486,6 +486,9 @@ INPUT c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc
 INPUT c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc
 INPUT c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
 INPUT c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
+INPUT ./impendantie.tex
+INPUT ./impendantie.tex
+INPUT impendantie.tex
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
