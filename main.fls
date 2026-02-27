@@ -489,6 +489,9 @@ INPUT c:/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
 INPUT ./impendantie.tex
 INPUT ./impendantie.tex
 INPUT impendantie.tex
+INPUT ./transformatoren.tex
+INPUT ./transformatoren.tex
+INPUT transformatoren.tex
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out

@@ -1,0 +1,27 @@
+Het schema voor de transformer kan op de volgende manier worden getekend:
+
+\begin{center}
+    \begin{circuitikz} 
+        \draw (-1,-2) to[isourcesin] (-1,2);
+        \draw (-1,2) to[short] (2,2);
+        \draw (2,2) to[short] (2,1);
+        \draw (3,1) to[short] (1,1);
+        \draw (1,1) to[cute inductor, l_=$jX_c$, i_=$I_0$] (1,-1);
+        \draw (3,1) to[american resistor, l_=$R_c$] (3,-1);
+        \draw (3,-1) to[short] (1,-1);
+        \draw (2,-1) to[short] (2,-2);
+        \draw (2,-2) to[short] (-1,-2);
+        \draw (2,2) to[short] (4,2);
+        \draw (4,2) to[L, l=$jX_1$, i_=$I_1$] (6,2);
+        \draw (6,2) to[american resistor, l_=$R_1$] (9,2);
+        \draw (9,2) to[cute inductor] (9,-2);
+        \draw (9,-2) to[short] (2,-2);
+        \draw (10,2) to[cute inductor] (10,-2);
+        \draw (10,2) to[L, l=$jX_2$, i_=$I_2$] (12,2);
+        \draw (12,2) to[american resistor, l_=$R_2$] (14,2);
+        \draw (14,2) to[european resistor, l_=$R_L$] (14,-2);
+        \draw (14,-2) to[short] (10,-2);
+        \draw (8,2) to [open, v^>=$V_1$] (8,-2);
+        \draw (11,2) to [open, v^>=$V_2$] (11,-2);
+    \end{circuitikz}
+\end{center}
