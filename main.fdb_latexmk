@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1773235807.48221 "c:/Users/jasmi/Aantekeningen-eps20/main.tex" "main.pdf" "main" 1773235811.04965 0
-  "c:/Users/jasmi/Aantekeningen-eps20/main.tex" 1773231355 1041 be365cbde548f580dd36ffd7eae4dd2d ""
+["pdflatex"] 1774370429.24651 "c:/Users/jasmi/Aantekeningen-eps20/main.tex" "main.pdf" "main" 1774370433.42564 0
+  "c:/Users/jasmi/Aantekeningen-eps20/main.tex" 1773832651 1084 70ab187c6f84b55bc05ee8ec7daf1634 ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1768904134 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1768903713 2971 def0b6c1f0b107b3b936def894055589 ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1768903713 2900 1537cc8184ad1792082cd229ecc269f4 ""
@@ -267,11 +267,12 @@
   "c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1768907915 5587484 49bd08ff372a6985d7d70778694ddaac ""
   "c:/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1768908140 3636255 6e5eefb9b528844075026a49915e81f9 ""
   "c:/texlive/2025/texmf.cnf" 1768907888 713 e69b156964470283e0530f5060668171 ""
+  "driefase.tex" 1774370424 3810 2ea89d88b59641d072be59ae23bde200 ""
   "impendantie.tex" 1771938737 1326 591aa25e1a68b08ead4de18d4836a495 ""
-  "main.aux" 1773235810 1117 eec08022168f3a5b3dea603a399f1729 "pdflatex"
-  "main.out" 1773235810 1075 63d4974330fec9b4eef74a6dc4c718c1 "pdflatex"
-  "main.tex" 1773231355 1041 be365cbde548f580dd36ffd7eae4dd2d ""
-  "main.toc" 1773235810 626 7ab417f10e2fc9780010ab5eec344e69 "pdflatex"
+  "main.aux" 1774370433 1486 68be2c8a187170fcfb5a807992ac602e "pdflatex"
+  "main.out" 1774370433 1438 4514d5276c7c8d2c885dc2b202ec9cc8 "pdflatex"
+  "main.tex" 1773832651 1084 70ab187c6f84b55bc05ee8ec7daf1634 ""
+  "main.toc" 1774370433 872 761202a849415fefbf0bdfba34e5d2c3 "pdflatex"
   "transformatoren.tex" 1772715657 4395 c05e970f35acf867784249526bcb29d7 ""
   "triac_tryristor.tex" 1773235806 2877 b1e801799d3ffe9b842b980c056d40d7 ""
   "vermogen berekenen.tex" 1773234005 2461 bc152ebf05ffd443f4168dfe8814882b ""
